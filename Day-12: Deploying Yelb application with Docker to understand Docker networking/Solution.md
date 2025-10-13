@@ -72,6 +72,13 @@
 4. Make Redis & Postgres persistent (volumes)
 
 
+
+
+5. Cleanup<br>
+   <img width="1074" height="931" alt="image" src="https://github.com/user-attachments/assets/57338c8e-6e2a-47d4-ab2b-6311608dbc54" />
+
+
+
   
 
 
